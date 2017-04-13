@@ -1,6 +1,7 @@
 /**
  * Module dependencies.
  */
+var autoscaleagent = require('bluemix-autoscaling-agent');
 
 var express = require('express'),
     routes = require('./routes'),
